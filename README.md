@@ -27,10 +27,10 @@ A full-stack task management application built using **Vue.js, Laravel, and MySQ
 ## 📸 Screenshots
 
 ### Login Page
-![Login](screenshots/login.png)
+![Login](screenshots/login.jpeg)
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard.jpeg)
 
 ---
 
